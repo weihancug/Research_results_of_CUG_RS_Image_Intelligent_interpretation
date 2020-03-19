@@ -32,7 +32,7 @@ Lett., vol. PP, pp. 1–5, 2019, doi: 10.1109/lgrs.2019.2934341.
     >W. Han, R. Feng, L. Wang, and Y. Cheng, “A semi-supervised generative framework with
  deep learning features for high-resolution remote sensing image scene classification,” 
  ISPRS J. Photogramm. Remote Sens., vol. 145, pp. 23–43, 2018, 
- doi: 10.1016/j.isprsjprs.2017.11.004.]
+ doi: 10.1016/j.isprsjprs.2017.11.004.
  
 * [2018-IGARSS-Han Wei-ADAPTIVE SPATIAL-SCALE-AWARE DEEP
  CONVOLUTIONAL NEURAL NETWORK FOR HIGH-RESOLUTION REMOTE SENSING](https://github.com/weihancug/Research_results_of_CUG_RS_Image_Intelligent_interpretation/tree/master/2018-IGARSS-Han%20Wei-ADAPTIVE%20SPATIAL-SCALE-AWARE%20DEEP%20%20CONVOLUTIONAL%20NEURAL%20NETWORK%20FOR%20HIGH-RESOLUTION%20REMOTE%20SENSING)
