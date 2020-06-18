@@ -1,1 +1,1 @@
-数据集、代码、ppt可见link (https://github.com/weihancug/Research_results_of_CUG_RS_Image_Intelligent_interpretation/tree/master/2019-IGARSS-Han%20Wei-Supervised%20Generative%20Adversarial%20Network%20Based%20%20Sample%20Generation%20for%20Scene%20Classification)
+数据集、代码、ppt可见[link](https://github.com/weihancug/Research_results_of_CUG_RS_Image_Intelligent_interpretation/tree/master/2019-IGARSS-Han%20Wei-Supervised%20Generative%20Adversarial%20Network%20Based%20%20Sample%20Generation%20for%20Scene%20Classification)
