@@ -12,7 +12,7 @@
 
 >目录格式：年份-期刊简称-第一作者/通讯作者-论文题目
 
-2020-Inf. Sci.-Han Wei-Sample Generation based on a Supervised Wasserstein Generative Adversarial Network for High-resolution Remote-sensing Scene Classification
+* 2020-Inf. Sci.-Han Wei-Sample Generation based on a Supervised Wasserstein Generative Adversarial Network for High-resolution Remote-sensing Scene Classification
     
     >W. Han, L. Wang, R. Feng, et al, “Sample Generation based on a Supervised Wasserstein Generative Adversarial Network for High-resolution Remote-sensing Scene Classification,” 2020, 
  doi: 10.1016/j.ins.2020.06.018.
