@@ -14,7 +14,7 @@
 
 * [2020-Inf. Sci.-Han Wei-Sample Generation based on a Supervised Wasserstein Generative Adversarial Network for High-resolution Remote-sensing Scene Classification](https://github.com/weihancug/Research_results_of_CUG_RS_Image_Intelligent_interpretation/tree/master/2020-Inf.%20Sci.-Han%20Wei-Sample%20Generation%20based%20on%20a%20Supervised%20Wasserstein%20Generative%20Adversarial%20Network%20for%20High-resolution%20Remote-sensing%20Scene%20Classification)
     
-    >W. Han, L. Wang, R. Feng, et al, “Sample Generation based on a Supervised Wasserstein Generative Adversarial Network for High-resolution Remote-sensing Scene Classification,” 2020, 
+    >W. Han, L. Wang, R. Feng, et al, “Sample Generation based on a Supervised Wasserstein Generative Adversarial Network for High-resolution Remote-sensing Scene Classification,” Inf. Sci. 2020, 
  doi: 10.1016/j.ins.2020.06.018.
 
 * [2019-IGARSS-Han Wei-Supervised Generative Adversarial Network Based 
